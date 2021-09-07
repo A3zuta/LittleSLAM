@@ -1,3 +1,7 @@
+# directory
 build/
 dataset/
+my_dataset/
+
+# object file
 *.o

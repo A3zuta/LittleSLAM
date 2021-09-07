@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3 -DNDEBUG  -rdynamic CMakeFiles/LittleSLAM.dir/main.cpp.o CMakeFiles/LittleSLAM.dir/SlamLauncher.cpp.o CMakeFiles/LittleSLAM.dir/FrameworkCustomizer.cpp.o CMakeFiles/LittleSLAM.dir/MapDrawer.cpp.o  -o LittleSLAM ../framework/libframework.a ../hook/libhook.a ../framework/libframework.a 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhook.a  CMakeFiles/hook.dir/RefScanMakerBS.cpp.o CMakeFiles/hook.dir/RefScanMakerLM.cpp.o CMakeFiles/hook.dir/CostFunctionED.cpp.o CMakeFiles/hook.dir/CostFunctionPD.cpp.o CMakeFiles/hook.dir/PoseOptimizerSD.cpp.o CMakeFiles/hook.dir/PoseOptimizerSL.cpp.o CMakeFiles/hook.dir/DataAssociatorLS.cpp.o CMakeFiles/hook.dir/DataAssociatorGT.cpp.o CMakeFiles/hook.dir/PointCloudMapBS.cpp.o CMakeFiles/hook.dir/PointCloudMapGT.cpp.o CMakeFiles/hook.dir/PointCloudMapLP.cpp.o CMakeFiles/hook.dir/LoopDetectorSS.cpp.o
+/usr/bin/ranlib libhook.a
